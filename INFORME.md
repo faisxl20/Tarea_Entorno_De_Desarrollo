@@ -56,3 +56,24 @@ Justificación: En el temario indica que, en el paradigma declarativo, es necesa
 Fragmento 4 (Filtrar productos recorriendo la lista uno por uno):
 Paradigma: Imperativo
 Justificación: Estamos definiendo el algoritmo indicando el conjunto de instrucciones que debe seguir el lenguaje. Al programa le estamos explicando cómo tiene que trabajar exactamente, en vez de pedirle un resultado final.
+
+
+Descripción imperativa
+Esta descripción consiste en indicar de forma detallada cada uno de los pasos que hay que dar, la descripción sería de esta forma: 
+Pela cuatro patatas y córtalas en trozos pequeños.
+Pon una sartén al fuego con abundante aceite de oliva.
+Fríe las patatas a fuego medio durante 15 minutos y escúrrelas.
+Bate cinco huevos en un bol grande y añade un pellizco de sal.
+Mezcla las patatas fritas con los huevos batidos.
+Vierte la mezcla en una sartén con unas gotas de aceite caliente.
+Deja que se cocine por un lado durante 3 minutos, dale la vuelta con ayuda de un plato y cocinar 2 minutos más.
+Sácala y sírvela.
+Justificación: Esto es imperativo porque estoy dando un algoritmo exacto con la secuencia de instrucciones que debe de seguir el programa. Estoy diciendo como tiene que hacer las cosas paso por paso.
+
+
+Descripción declarativa
+Esta descripción consiste en describir únicamente el resultado final que queremos lograr sin explicar como llegar a él, la descripción seria de esta forma:
+Quiero una tortilla de patatas redonda, jugosa por dentro, cuajada por fuera y servida caliente en un plato. 
+Justificación: Esto es declarativo porque estoy especificando al programa el estado o los valores que espero obtener al final. No le estoy dando instrucciones detalladas de cocina ni le estoy explicando cómo cocinarlo; solo le digo que es lo que quiero y el programa se encarga de averiguar cómo hacerlo.
+
+Palabra del día: compañeros
