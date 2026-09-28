@@ -39,3 +39,20 @@ Según su parafigma de programación:
 Imperativo: Permiten crear algoritmos indicando, mediante instrucciones y expresiones, los pasos exactos que debe de seguir el programa. Es decir, se le dice a la máquina como hacer las cosas.
 
 Declarativos: Especifican únicamente los valores o el resultado que se espera al final, sin detallar que hacer internamente para llegar a él, basándose en relaciones lógicas y matemáticas. Le dicen a la máquina que es lo que quieren obtener.
+
+
+Fragmento 1 (Sumar números uno por uno): 
+Paradigma: Imperativo
+Justificación: Los lenguajes imperativos se basan en crear algoritmos a través de un conjunto de instrucciones y expresiones. Cuando describimos que el programa debe recorrer la lista y sumar los números, le estamos dando a la máquina las instrucciones exactas paso a paso para resolver el problema.
+
+Fragmento 2  (Buscar empleados mayores de 30):
+Paradigma: Declarativo
+Justificación: La característica principal de los lenguajes declarativos es que solo especifican los valores que se esperan obtener al final, sin detallar qué hay que hacer para lograr ese resultado. En este caso pedimos los nombres de los empleados que sean mayores de 30, sin decirle a la base de datos como tiene que buscarlos.
+
+Fragmento 3 (Calcular el factorial matemáticamente):
+Paradigma: Declarativo
+Justificación: En el temario indica que, en el paradigma declarativo, es necesario indicar las relaciones lógicas y matemáticas para poder llegar al resultado. En este fragmento, el programa no da instrucciones sobre cómo calcular, sino que te dice la regla matemática factorial para que el programa sepa el resultado.
+
+Fragmento 4 (Filtrar productos recorriendo la lista uno por uno):
+Paradigma: Imperativo
+Justificación: Estamos definiendo el algoritmo indicando el conjunto de instrucciones que debe seguir el lenguaje. Al programa le estamos explicando cómo tiene que trabajar exactamente, en vez de pedirle un resultado final.
