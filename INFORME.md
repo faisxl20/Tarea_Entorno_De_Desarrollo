@@ -1,5 +1,5 @@
 Parte 1. Análisis teórico de conceptos
- Explicación de los conceptos básicos
+ 1.Explicación de los conceptos básicos
 
 Código Fuente: Es el conjunto de instrucciones que escribe el programador utilizando un lenguaje de programación (como Java o C++). Está escrito con palabras legibles para los humanos, pero el procesador no es capaz de entenderlo directamente.
 
@@ -20,3 +20,22 @@ Generación de código intermedio: Se crea una versión puente del programa que 
 Optimización de código intermedio: El sistema revisa la representación creada para mejorar su eficiencia, como por ejemplo eliminar variables que has creado pero que nunca llegas a usar.
 
 Generación de código final: El código puente se traduce de forma definitiva a los ceros y unos exactos (código máquina) que el procesador concreto de ese ordenador es capaz de procesar.
+
+2.Clasificación de lenguajes de programación
+
+Según su nivel de abstraccion:
+
+El nivel de abstracción es la capacidad que tiene el lenguaje para ocultar los detalles técnicos del hardware al programador.
+
+Nivel Alto: SOn lenguajes que se acercan al lenguaje natural humano y ocultan al programador los problemas deirvados de la plataforma o el procesador.
+
+Nivel Medio: Son lenguajes que originalmente se consiferaban de alto nivel, pero con la evolución tecnológica han quedado en un punto intermedio.
+
+Nivel Bajo: Son lenguajes que dependen completamente de las características de cada máquina y procesador.
+
+
+Según su parafigma de programación:
+
+Imperativo: Permiten crear algoritmos indicando, mediante instrucciones y expresiones, los pasos exactos que debe de seguir el programa. Es decir, se le dice a la máquina como hacer las cosas.
+
+Declarativos: Especifican únicamente los valores o el resultado que se espera al final, sin detallar que hacer internamente para llegar a él, basándose en relaciones lógicas y matemáticas. Le dicen a la máquina que es lo que quieren obtener.
